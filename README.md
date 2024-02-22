@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/carolinapaz10/" target="blank">
 Carolina</a></h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caropaz&base=1005&label=PROFILE+VIEWS&color=green&style=flat"  /> </p>
 
 
 
