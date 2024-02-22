@@ -14,7 +14,7 @@ Carolina</a></h1>
 
 - 📫 How to reach me **pazcaro979@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/caropaz/Me/blob/main/Carolina%20Paz%20-%20CV.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/caropaz/Me/blob/main/CV-Carolina%20Paz.pdf" target="blank">Resume</a>
 <br/>
 
 <p align="center">
